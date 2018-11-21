@@ -4,7 +4,7 @@ A [Paw Extension](http://luckymarmot.com/paw/extensions/) to render the request 
 
 ## Installation
 
-Place the [com.xojo.PawExtensions.HTTPCodeGenerator](https://github.com/xojo/pawextensions/tree/master/Classic) folder in your Paw extensions folder.
+Download the repository as a zip file, unzip and place the [Paw-XojoClassicGenerator-master](https://github.com/xojo/Paw-XojoClassicGenerator) folder in your Paw extensions folder.
 
 ## License
 
