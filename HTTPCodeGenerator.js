@@ -31,7 +31,7 @@ var XojoCodeGenerator = function() {
 		
 			client_code[client_code.length] = "// Set up the socket";
 			
-			if(secure) {
+			if(request.secure) {
 				client_code[client_code.length] = "dim h as new HTTPSecureSocket";
 				client_code[client_code.length] = "h.Secure = True";
 				client_code[client_code.length] = "h.ConnectionType = h.SSLv23";
