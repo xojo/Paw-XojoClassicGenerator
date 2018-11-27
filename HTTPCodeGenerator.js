@@ -137,7 +137,7 @@ var XojoCodeGenerator = function() {
 
 XojoCodeGenerator.identifier = "com.xojo.PawExtensions.HTTPCodeGenerator";
 
-XojoCodeGenerator.title = "Xojo Framework";
+XojoCodeGenerator.title = "Xojo Framework HTTPSocket";
 
 XojoCodeGenerator.fileExtension = "xojo_code";
 
