@@ -1,12 +1,12 @@
 # Xojo Classic Framework (Paw Extension)
 
-A [Paw Extension](http://luckymarmot.com/paw/extensions/) to render the request using the Xojo Classic framework.
+A [Paw Extension](https://paw.cloud/extensions/) to render the request using the Xojo Classic framework.
 
 ## Installation
 
 1. Download the repository as a zip file
 2. Unzip
-3. Place the [Paw-XojoClassicGenerator-master](https://github.com/xojo/Paw-XojoClassicGenerator) folder in your Paw extensions folder
+3. Place the [Paw-XojoClassicGenerator-master](https://github.com/xojo/Paw-XojoClassicGenerator/tree/master) folder in your Paw extensions folder
 4. Rename folder as com.xojo.PawExtensions.HTTPCodeGenerator
 
 ## License
